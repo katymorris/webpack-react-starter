@@ -1,1 +1,1 @@
-export const hello = document.getElementById('hello');
+export const hello = $('hello');
